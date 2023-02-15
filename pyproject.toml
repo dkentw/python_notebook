@@ -2,7 +2,7 @@
 name = "python_notebook"
 version = "0.1.0"
 description = ""
-authors = ["KentChen <kent.ch@binance.com>"]
+authors = ["Dken <dken.tw@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
